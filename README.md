@@ -19,7 +19,6 @@ The goal of this project is to assist the merchandising teams by:
 - A detailed analysis of sales performance.
 - Key metrics and performance indicators.
 - A summarized financial report for internal business use.
-- Visualizations (optional) to enhance report clarity.
 
 # Impact
 
