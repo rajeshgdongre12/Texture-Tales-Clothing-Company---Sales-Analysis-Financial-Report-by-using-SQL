@@ -8,7 +8,7 @@ Texture Tales Clothing Company specializes in providing an optimized range of cl
 
 The goal of this project is to assist the merchandising teams by:
 
-- Analyzing the company's sales data.
+- Analyzing the company's sales data using SQL.
 - Identifying key trends, patterns, and opportunities.
 - Generating a basic financial report based on the sales performance.
 - Providing insights to share with the wider business to guide future strategies.
