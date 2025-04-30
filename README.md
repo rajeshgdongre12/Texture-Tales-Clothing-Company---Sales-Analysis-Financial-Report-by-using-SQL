@@ -1,5 +1,3 @@
-# Texture-Tales-Clothing-Company---Sales-Analysis-Financial-Report-by-using-SQL
-
 # Project Overview
 
 Texture Tales Clothing Company specializes in providing an optimized range of clothing and lifestyle wear designed for the modern adventurer. As part of their ongoing commitment to growth and innovation, the company's CEO has initiated a project to better understand sales performance and strengthen business operations.
